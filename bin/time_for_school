@@ -34,7 +34,7 @@ b = avi.teach
 c = avi.teach 
 
 tibbs.learn(a)
-tibbs.learn(b
+tibbs.learn(b)
 
 puts tibbs.knowledge
 
