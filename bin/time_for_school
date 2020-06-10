@@ -33,7 +33,8 @@ a = avi.teach
 b = avi.teach 
 c = avi.teach 
 
-tibbs.learn(a + b + c)
+tibbs.learn(a)
+tibbs.learn(b
 
 puts tibbs.knowledge
 
